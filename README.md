@@ -30,7 +30,7 @@ shown in the screenshot below:
 
 4. Run `main.py`
 
-Every 60s, it checks submissions and checks it against DHIS2 favorites. If matching favorites are found, it grades users' ubmission with 100 marks.
+Every 60s, it checks submissions and checks it against DHIS2 favorites. If matching favorites are found, it grades users' submission with 100 marks.
 
 ### Sample Run
 ```bash
