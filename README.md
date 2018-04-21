@@ -2,7 +2,7 @@
 A Python tool that checks against DHIS2 API to grade assignments in Moodle
 
 ## Configuration and Usage
-1. Create a webservice token in Moodle (see [docs](https://docs.moodle.org/33/en/Using_web_services) with the following functions enabled:
+1. Create a webservice token in Moodle (see [docs](https://docs.moodle.org/33/en/Using_web_services)) with the following functions enabled:
 
 ```php
 core_course_get_courses
