@@ -121,7 +121,7 @@ class MoodleAPI(object):
         for user in users:
             grades.append({
                 'userid': user['id'],
-                'grade': 50.0,
+                'grade': 100.0,
                 'attemptnumber': -1,
                 'addattempt': 0,
                 'workflowstate': 'Released'
